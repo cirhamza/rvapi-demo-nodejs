@@ -1,0 +1,19 @@
+{
+	"name": "github-quick-startup",
+	"version": "1.0.0",
+	"description": "",
+	"main": "App.js",
+	"scripts": {
+		"start": "node App.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.18.1",
+		"dotenv": "^7.0.0",
+		"form-data": "^2.3.3",
+		"fs": "0.0.1-security",
+		"request": "^2.88.0",
+		"request-promise": "^4.2.4"
+	}
+}
